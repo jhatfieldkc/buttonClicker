@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.simon {
+  background-color: red;
+  color: white;
+  border-radius: 1rem;
+  width: 10rem;
+  margin: 0 auto;
+  text-align: center;
+  box-shadow: 0.35rem 0.3rem 0.1rem rgba(0, 0, 0, 0.6);
+}
+
+.add {
+  display: flex;
+  justify-content: center;
+  margin: 2rem;
+}
+
+button {
+  border-radius: 1.25rem;
+  padding: 0.25rem;
+  font-size: 2rem;
+  background-color: red;
+  color: white;
+  text-align: center;
+  box-shadow: 0.35rem 0.3rem 0.1rem rgba(0, 0, 0, 0.6);
+  border: none;
+}
